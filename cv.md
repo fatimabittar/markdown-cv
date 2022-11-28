@@ -3,7 +3,7 @@
 ## Date of Birth: 10-3-1999
 ## Email: fatimabittar25@gmail.com
 ## Telephone: +961 76620963
-
+![This is Fatima Bittar image.](/Fatima.png "This is Fatima Bittar image.")
 
 # Education
 *2016-2021* Chemical and Petrochemical Engineering Diploma
