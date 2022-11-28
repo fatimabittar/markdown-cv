@@ -4,7 +4,6 @@
 ## Email: fatimabittar25@gmail.com
 ## Telephone: +961 76620963
 
-![This is Bodour Almalki image.](/img.jpg "This is Bodour Almalki image.")
 
 # Education
 *2016-2021* Chemical and Petrochemical Engineering Diploma
